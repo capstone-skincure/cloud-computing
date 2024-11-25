@@ -1,0 +1,16 @@
+# Abaikan file log
+*.log
+
+# Abaikan file dataset
+*.csv
+*.zip
+
+# Abaikan file model selain model.h5
+saved_model/
+
+# Abaikan file editor
+.DS_Store
+Thumbs.db
+
+# Abaikan direktori virtual environment
+venv/
